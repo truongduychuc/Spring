@@ -1,0 +1,47 @@
+body {
+      font-family: Helvetica, Arial, Tahoma, sans-serif;
+      font-size:20px;
+      line-height: 1.8;
+  }
+   p {font-size: 16px;}
+  .margin {margin-bottom: 45px;}
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+  .navbar {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 17px;
+  }
+  .navbar-nav  li a:hover {
+      color: #white !important;
+  }
+  .col-centered{
+    float: none;
+    margin: 0 auto;
+}
+.account-container{
+	margin-top: 80px;
+}
+.account-info-ul{
+	list-style: none;
+}
+.product{
+	height:440px;
+}
+#introduce{
+	background-color: #1abc9c; /* Green */
+      color: #ffffff;
+      padding:100px 0px	;
+}
+#login-container{
+	padding:100px 0px;
+	display:none;
+}
+.bg-3{
+	height: 100vh;
+}
